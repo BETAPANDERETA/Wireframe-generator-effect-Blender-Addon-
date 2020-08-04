@@ -1,4 +1,4 @@
-## Wireframe generate effect v1.0.
+## Wireframe generate effect v1.0
 ### Requisitos:
   Blender:
       version 2.82 (sub 7)
