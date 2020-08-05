@@ -1,4 +1,8 @@
 ## Wireframe generate effect v1.0
+<p align="center">
+  <img width="460" height="300" src=miniatura.gif>
+</p>
+
 ### Requisitos:
   Blender:
       version 2.82 (sub 7)
