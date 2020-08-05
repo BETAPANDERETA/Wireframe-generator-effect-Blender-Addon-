@@ -21,10 +21,15 @@ Betapandereta
 ## Demostraciones y capturas
 
 <p align="center">
+  <img width="460" height="300" src=demostracion_1.gif>
+</p>
+
+<p align="center">
   <img width="460" height="300" src=demostracion_2.png>
 </p>
 
 <p align="center">
-  <img width="460" height="300" src=demostracion_1.gif>
+  <img width="460" height="300" src=demostracion_3.gif>
 </p>
+
 
