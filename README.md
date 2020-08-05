@@ -13,7 +13,7 @@
 ### Autor
 Betapandereta
 ## Instalación
-1. Descargar .zip que contiene el archivo "Wireframe_effect_.py"
+1. Descargar .zip que contiene el archivo "Wireframe_effect_.py", o también se puede descargar únicamente el archivo  "Wireframe_effect_.py" sin comprimir
 2. Dentro de blender, irse al apartado "Edit", ya dentro ir a "Preferences", en el sub-menú de Add-ons, ir a "Install" (Parte superior derecha) y allí buscar donde se encuentra el .zip descargado
 3. Habilitar el add-on.
 ## Uso
