@@ -1,3 +1,14 @@
+bl_info = {
+    "name": "Wireframe generator effect v1.0",
+    "author": "Leonardo Betancur A.K.A BETAPANDERETA",
+    "version": (1, 0),
+    "blender": (2, 82, 0),
+    "location": "View3D > UI",
+    "description": "Crea un increible efecto de generacion",
+    "warning": "Es un demo, aun cuenta con algunos errores, no aplicar el efecto dos veces sobre un mismo objeto",
+    "wiki_url": "https://github.com/BETAPANDERETA/Wireframe-generator-effect-Blender-Addon-",
+}
+
 import bpy
 from bpy.types import (
     AddonPreferences,
