@@ -9,8 +9,8 @@
 ### Acerca del add-on
 1. Este Add-on agrega a CUALQUIER mesh (Sea default o un modelo con el que estás trabajando) el increíble efecto de generación con wireframes
 2. El add-on aún está en construcción, este es un pequeño demo.
-### Autor:
-Leonardo Felipe Betancur Díaz
+### Autor
+Betapandereta
 ## Instalación
 1. Descargar .zip que contiene el archivo "Wireframe_effect_v1.0.py"
 2. Dentro de blender, irse al apartado "Edit", ya dentro ir a "Preferences", en el sub-menú de Add-ons, ir a "Install" (Parte superior derecha) y allí buscar donde se encuentra el .zip descargado
