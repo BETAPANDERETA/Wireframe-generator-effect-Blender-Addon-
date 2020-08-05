@@ -5,7 +5,7 @@
 
 ### Requisitos:
   Blender:
-      version 2.82 (sub 7)
+      version 2.82 (sub 7) y más recientes (No se ha probado en versiones anteriores)
 ### Acerca del add-on
 1. Este Add-on agrega a CUALQUIER mesh (Sea default o un modelo con el que estás trabajando) el increíble efecto de generación con wireframes
 2. El add-on aún está en construcción, este es un pequeño demo.
