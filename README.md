@@ -1,8 +1,10 @@
-### WIREFRAME GENERATOR EFFECT v1.5 - Blender Add-on 
+### WIREFRAME GENERATOR EFFECT  - Blender Add-on 
 
 <p align="center">
   <img width="460" height="300" src=presentacion.gif>
 </p>
+
+<img alt="Mozilla Add-on" src="https://img.shields.io/amo/dw/DESCARGAS?label=DESCARGAS&style=for-the-badge"> 
 
 ### Requisitos:
   Blender:
