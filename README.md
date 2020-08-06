@@ -27,8 +27,8 @@ Betapandereta
 </p> 
 <p align="center">
   <img width="260" height="170" src=demo_skull_vp.gif>
-  <img width="260" height="170" src=demo_skull.gif>
   <img width="260" height="170" src=demo_skull_w.gif>
+  <img width="260" height="170" src=demo_skull.gif>
 </p> 
 
 
