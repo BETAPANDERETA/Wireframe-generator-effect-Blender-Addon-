@@ -4,7 +4,9 @@
   <img width="460" height="300" src=presentacion.gif>
 </p>
 
-<img alt="Mozilla Add-on" src="https://img.shields.io/amo/dw/DESCARGAS?label=DESCARGAS&style=for-the-badge"> 
+ <a href="https://github.com/BETAPANDERETA/Wireframe-generator-effect-Blender-Addon-/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/BETAPANDERETA/Wireframe-generator-effect-Blender-Addon-?style=for-the-badge"></a>  <a href="https://github.com/BETAPANDERETA/Wireframe-generator-effect-Blender-Addon-/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/BETAPANDERETA/Wireframe-generator-effect-Blender-Addon-?style=for-the-badge"></a>
+
+
 
 ### Requisitos:
   Blender:
