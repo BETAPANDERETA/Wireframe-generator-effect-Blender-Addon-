@@ -20,6 +20,17 @@ Betapandereta
 ## Uso
 (Video en construcción)
 ## Demostraciones y capturas
+<p align="center">
+  <img width="260" height="170" src=demo_suzanne_1.gif>
+  <img width="260" height="170" src=demo_suzanne_3.gif>
+  <img width="260" height="170" src=demo_suzanne_2.gif>
+</p> 
+<p align="center">
+  <img width="260" height="170" src=demo_skull_vp.gif>
+  <img width="260" height="170" src=demo_skull.gif>
+  <img width="260" height="170" src=demo_skull_w.gif>
+</p> 
+
 
 
 
