@@ -1,7 +1,7 @@
 ## Wireframe generate effect 
 
 <p align="center">
-  <img width="460" height="300" src=demostracion_2.png>
+  <img width="460" height="300" src=presentacion.png>
 </p>
 
 ### Requisitos:
