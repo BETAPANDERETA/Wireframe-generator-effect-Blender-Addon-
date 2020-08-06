@@ -1,4 +1,4 @@
-## Wireframe generate effect 
+### WIREFRAME GENERATOR EFFECT v1.5 - Blender Add-on 
 
 <p align="center">
   <img width="460" height="300" src=presentacion.gif>
