@@ -1,7 +1,7 @@
 ## Wireframe generate effect 
 
 <p align="center">
-  <img width="460" height="300" src=presentacion.png>
+  <img width="460" height="300" src=presentacion.gif>
 </p>
 
 ### Requisitos:
@@ -21,16 +21,5 @@ Betapandereta
 (Video en construcción)
 ## Demostraciones y capturas
 
-<p align="center">
-  <img width="460" height="300" src=miniatura.gif>
-</p>
-
-<p align="center">
-  <img width="460" height="300" src=demostracion_1.gif>
-</p>
-
-<p align="center">
-  <img width="460" height="300" src=demostracion_3.gif>
-</p>
 
 
