@@ -1,8 +1,7 @@
 ## Wireframe generate effect 
 <p align="center">
-  <img width="460" height="300" src=miniatura.gif>
+  <img width="460" height="300" src=demostracion_2.png>
 </p>
-
 ### Requisitos:
   Blender:
       version 2.82 (sub 7) y más recientes (No se ha probado en versiones anteriores)
@@ -21,11 +20,11 @@ Betapandereta
 ## Demostraciones y capturas
 
 <p align="center">
-  <img width="460" height="300" src=demostracion_1.gif>
+  <img width="460" height="300" src=miniatura.gif>
 </p>
 
 <p align="center">
-  <img width="460" height="300" src=demostracion_2.png>
+  <img width="460" height="300" src=demostracion_1.gif>
 </p>
 
 <p align="center">
