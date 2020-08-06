@@ -178,7 +178,7 @@ class MYADDON_PT_my_panel(bpy.types.Panel):
             
             try:
                 self.generadorModificadores(col,"Distorsion",'strength','Fuerza de efecto',obj,"MOD_DISPLACE")
-                self.generadorModificadores(col,"Subdivision",'levels','Subdiv. malla',obj,"MOD_SUBSURF")
+                self.generadorModificadores(col,"Subdivision",'levels','Subdiv. nube',obj,"MOD_SUBSURF")
                 
             except KeyError:
                     print("No se encuentra el modificador o textura")
