@@ -6,7 +6,9 @@
 
 <img alt="GitHub Releases" src="https://img.shields.io/github/downloads/BETAPANDERETA/Wireframe-generator-effect-Blender-Addon-/v1.5/total?style=for-the-badge">  <a href="https://github.com/BETAPANDERETA/Wireframe-generator-effect-Blender-Addon-/issues"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/BETAPANDERETA/Wireframe-generator-effect-Blender-Addon-?color=purple&style=for-the-badge"> <img alt="GitHub issues" src="https://img.shields.io/github/issues/BETAPANDERETA/Wireframe-generator-effect-Blender-Addon-?style=for-the-badge"></a>  <a href="https://github.com/BETAPANDERETA/Wireframe-generator-effect-Blender-Addon-/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/BETAPANDERETA/Wireframe-generator-effect-Blender-Addon-?style=for-the-badge"></a> <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/BETAPANDERETA/Wireframe-generator-effect-Blender-Addon-?style=for-the-badge"> <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/BETAPANDERETA/Wireframe-generator-effect-Blender-Addon-?color=green&label=VIENDO&style=for-the-badge">
 
-Descarga desde Gumroad (Contiene ejemplos y demostraciones dentro de blender): [Gumroad](https://gum.co/qdkwV)
+- Descarga desde Gumroad (Contiene ejemplos y demostraciones dentro de blender): [Gumroad](https://gum.co/qdkwV)
+- Descarga desde Artstation (Contiene ejemplos y demostraciones dentro de blender): [Artstation](https://artstn.co/m/gJGq)
+- Descarga Blender Marketplace : (Pendiente)
 
 ### Requisitos:
   Blender:
