@@ -6,7 +6,7 @@
 
 <img alt="GitHub Releases" src="https://img.shields.io/github/downloads/BETAPANDERETA/Wireframe-generator-effect-Blender-Addon-/v1.5/total?style=for-the-badge">  <a href="https://github.com/BETAPANDERETA/Wireframe-generator-effect-Blender-Addon-/issues"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/BETAPANDERETA/Wireframe-generator-effect-Blender-Addon-?color=purple&style=for-the-badge"> <img alt="GitHub issues" src="https://img.shields.io/github/issues/BETAPANDERETA/Wireframe-generator-effect-Blender-Addon-?style=for-the-badge"></a>  <a href="https://github.com/BETAPANDERETA/Wireframe-generator-effect-Blender-Addon-/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/BETAPANDERETA/Wireframe-generator-effect-Blender-Addon-?style=for-the-badge"></a> <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/BETAPANDERETA/Wireframe-generator-effect-Blender-Addon-?style=for-the-badge"> <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/BETAPANDERETA/Wireframe-generator-effect-Blender-Addon-?color=green&label=VIENDO&style=for-the-badge">
 
-[Gumroad](https://gum.co/qdkwV)
+Descarga desde Gumroad (Contiene ejemplos y demostraciones dentro de blender): [Gumroad](https://gum.co/qdkwV)
 
 ### Requisitos:
   Blender:
@@ -18,7 +18,7 @@
 ### Autor
 Betapandereta
 ## Instalación
-1. Descargar .zip que contiene el archivo "Wireframe_effect_.py", o también se puede descargar únicamente el archivo  "Wireframe_effect_.py" sin comprimir
+1. Descargar el archivo "Wireframe_effect_.py"
 2. Dentro de blender, irse al apartado "Edit", ya dentro ir a "Preferences", en el sub-menú de Add-ons, ir a "Install" (Parte superior derecha) y allí buscar donde se encuentra el .zip descargado
 3. Habilitar el add-on.
 ## Uso
