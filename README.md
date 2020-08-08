@@ -1,7 +1,7 @@
 ### WIREFRAME GENERATOR EFFECT  - Blender Add-on 
 
 <p align="center">
-  <img width="460" height="300" src=Presentacion_.png>
+  <img width="460" height="300" src=Demos/Presentacion_.png>
 </p>
 
 <img alt="GitHub Releases" src="https://img.shields.io/github/downloads/BETAPANDERETA/Wireframe-generator-effect-Blender-Addon-/v1.5/total?style=for-the-badge">  <a href="https://github.com/BETAPANDERETA/Wireframe-generator-effect-Blender-Addon-/issues"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/BETAPANDERETA/Wireframe-generator-effect-Blender-Addon-?color=purple&style=for-the-badge"> <img alt="GitHub issues" src="https://img.shields.io/github/issues/BETAPANDERETA/Wireframe-generator-effect-Blender-Addon-?style=for-the-badge"></a>  <a href="https://github.com/BETAPANDERETA/Wireframe-generator-effect-Blender-Addon-/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/BETAPANDERETA/Wireframe-generator-effect-Blender-Addon-?style=for-the-badge"></a> <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/BETAPANDERETA/Wireframe-generator-effect-Blender-Addon-?style=for-the-badge"> <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/BETAPANDERETA/Wireframe-generator-effect-Blender-Addon-?color=green&label=VIENDO&style=for-the-badge">
@@ -28,18 +28,17 @@ Betapandereta
 ## Demostraciones y capturas
 
 <p align="center">
-  <img width="460" height="300" src=presentacion.gif>
+  <img width="460" height="300" src=Demos/presentacion.gif>
 </p>
-
 <p align="center">
-  <img width="260" height="170" src=demo_suzanne_1.gif>
-  <img width="260" height="170" src=demo_suzanne_3.gif>
-  <img width="260" height="170" src=demo_suzanne_2.gif>
-</p> 
+  <img width="260" height="170" src=Demos/demo_suzanne_1.gif>
+  <img width="260" height="170" src=Demos/demo_suzanne_3.gif>
+  <img width="260" height="170" src=Demos/demo_suzanne_2.gif>
+</p>
 <p align="center">
-  <img width="260" height="170" src=demo_skull_vp.gif>
-  <img width="260" height="170" src=demo_skull_w.gif>
-  <img width="260" height="170" src=demo_skull.gif>
+  <img width="260" height="170" src=Demos/demo_skull_vp.gif>
+  <img width="260" height="170" src=Demos/demo_skull_w.gif>
+  <img width="260" height="170" src=Demos/demo_skull.gif>
 </p> 
 
 
