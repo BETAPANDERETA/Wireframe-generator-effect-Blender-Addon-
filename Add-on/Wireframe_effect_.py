@@ -43,7 +43,7 @@ def crearMalla():
     links = glow.node_tree.links
     new_link = links.new(node_emission.outputs[0], material_output.inputs[0])
     
-    #Modificadores  malla 
+    #Modificadores  malla _2
 
     sub_mod = objM.modifiers.new("Subdivision","SUBSURF")
     sub_mod.levels = 1
