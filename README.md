@@ -3,6 +3,16 @@
 <p align="center">
   <img width="460" height="300" src=Demos/Presentacion_.png>
 </p>
+<p align="center">
+    <!-- STARS ICONO -->
+    <a href="https://github.com/BETAPANDERETA/Wireframe-generator-effect-Blender-Addon-/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/BETAPANDERETA/Wireframe-generator-effect-Blender-Addon-?color=yellow&style=for-the-badge"></a>
+    <!-- ISSUES ICONO -->
+    <a href="https://github.com/BETAPANDERETA/Wireframe-generator-effect-Blender-Addon-/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/BETAPANDERETA/Wireframe-generator-effect-Blender-Addon-?color=BLUE&style=for-the-badge"></a>
+    <!-- GUMROAD ICONO -->
+    <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=important&label=GUMROAD&style=for-the-badge&url=https%3A%2F%2Fgum.co%2FqdkwV">
+    <!-- Artsation icono-->
+    <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=blue&label=Artstation&style=for-the-badge&url=https%3A%2F%2Fwww.artstation.com%2Farchalord356">
+</p>
 
 - Descarga desde Gumroad (Contiene ejemplos y demostraciones dentro de blender):  [Gumroad](https://gum.co/qdkwV)
 - Descarga desde Artstation (Contiene ejemplos y demostraciones dentro de blender): [Artstation](https://artstn.co/m/gJGq)
