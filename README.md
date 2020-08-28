@@ -16,7 +16,7 @@
 
 - Descarga desde Gumroad (Contiene ejemplos y demostraciones dentro de blender):  [Gumroad](https://gum.co/qdkwV)
 - Descarga desde Artstation (Contiene ejemplos y demostraciones dentro de blender): [Artstation](https://artstn.co/m/gJGq)
-- Descarga Blender Marketplace : (Pendiente)
+- Descarga Blender Marketplace : [Blender - marketplace](https://blendermarket.com/products/wireframe-generator-effect-)
 
 ### Requisitos:
   Blender:
